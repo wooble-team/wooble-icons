@@ -3,9 +3,11 @@ import Props from '../../types/props';
 
 import PaperFailIcon from '../../../icons/outline/PaperFail.svg';
 
-const PaperFail: React.FC<Props> = ({ color, ...props }) => {
+const PaperFail: React.FC<Props> = ({ color = '#130F26', ...props }) => {
 	return (
-		<PaperFailIcon {...props} />
+		<PaperFailIcon
+			stroke={color}
+			{...props} />
 	);
 };
 
