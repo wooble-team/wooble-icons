@@ -1,5 +1,6 @@
 import React from 'react';
 import Props from '../../types/props';
+import colorToHex from '../../utils/colorToHex';
 
 import LoadingIcon from '../../../icons/outline/Loading.svg';
 
@@ -9,7 +10,7 @@ const Loading: React.FC<Props> = ({ color = '#130F26', className, ...props }) =>
 	return (
 		<LoadingIcon
 			className={`loading-icon ${className}`}
-			fill={color}
+			fill={colorToHex(color)}
 			{...props} />
 	);
 };

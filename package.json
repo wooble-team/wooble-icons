@@ -1,6 +1,6 @@
 {
   "name": "@itswooble/icons",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "It's wooble UI icons pack.",
   "scripts": {
     "prepublishOnly": "rollup -c",
