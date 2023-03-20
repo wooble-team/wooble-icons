@@ -1094,10 +1094,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@itswooble/colors@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@itswooble/colors/-/colors-1.0.0.tgz#11e75db7ab1b028b3feb1994be37fe0cbf8e6a14"
-  integrity sha512-KpI1espjs9Ux/0/bm1LWTZrpqN4A5lvrmyZsWCDFcU11avJAj0zNV5OW7CHnPalzuLAQdCClx9myizqkxruU3w==
+"@itswooble/colors@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@itswooble/colors/-/colors-1.0.1.tgz#84935aad0a0d8feea504d15a3602ae7e0b32a128"
+  integrity sha512-rrEAUiGhW3//TfOa0BdJSHkQUgZ3HVNxP4GtgptbVpq8xKyXurct9CLcMBY0RtfJ9CSBgu1NubgAFjreJmCyUA==
 
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
