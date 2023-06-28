@@ -48,7 +48,7 @@ const App = () => (
 Clone locally:
 
 ```bash
-$ git clone git@github.com:wooble-place/wooble-icons.git
+$ git clone git@github.com:wooble-team/wooble-icons.git
 $ cd wooble-icons
 ```
 

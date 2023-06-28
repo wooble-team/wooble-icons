@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:wooble-place/wooble-icons.git"
+    "url": "git+git@github.com:wooble-team/wooble-icons.git"
   },
   "keywords": [
     "wooble",
@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wooble-place/wooble-icons/issues"
+    "url": "https://github.com/wooble-team/wooble-icons/issues"
   },
   "homepage": "https://ui.wooble.team/icons",
   "publishConfig": {
