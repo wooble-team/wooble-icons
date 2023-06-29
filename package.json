@@ -1,6 +1,6 @@
 {
   "name": "@itswooble/icons",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "It's wooble UI icons pack.",
   "scripts": {
     "prepublishOnly": "rollup -c",
@@ -69,6 +69,6 @@
     "react": "^18.2.0"
   },
   "dependencies": {
-    "@itswooble/colors": "^1.0.1"
+    "@itswooble/colors": "^1.0.3"
   }
 }
